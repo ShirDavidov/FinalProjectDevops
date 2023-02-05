@@ -7,7 +7,7 @@
 <title>Motivational Quotes</title>
 <style>
 	body {
-		background-color: red;
+		background-color: lightblue;
 		font-family: Arial, sans-serif;
 	}
 
